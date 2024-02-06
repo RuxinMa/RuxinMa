@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruxin Ma</h1>
-<h3 align="center">A passionate software developer ☕️ </h3>
+<h3 align="center">A passionate Software Developer ☕️ </h3>
 
 - 🔭 I’m currently studying at University of Adelaide **Master of Computing and Innovation**
   
