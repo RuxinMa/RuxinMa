@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **allisonmrx610@gmail.com**
+- 📫 How to reach me **alisonma0610@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ruxin-ma/](https://www.linkedin.com/in/ruxin-ma/)
 
