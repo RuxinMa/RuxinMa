@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ruxin Ma</h1>
 <h3 align="center">A passionate Software Developer ☕️ </h3>
 
-- 🔭 I’m currently studying at University of Adelaide **Master of Computing and Innovation**
+- 🔭 I’m currently studying at University of Adelaide **Master of Computing and Innovation**, expected to graduate in July 2025
   
-- 🤝 I’m looking for an internship for **full stack developer** or **front-end developer**.
+- 🤝 I'm seeking a Full-Time position or Graduate Program as a **Software Developer** or **Front-End Developer**.
 
-- 👨‍💻 All of my projects are available at [https://ruxinma.netlify.app/](https://ruxinma.netlify.app/)
+- 👨‍💻 View my portfolio of projects at [ruxinma.netlify.app/](https://ruxinma.netlify.app/)
 
-- 💬 Ask me about **everything**
+- 💬 Feel free to reach out about software development, web technologies, or collaboration opportunities
 
-- 📫 How to reach me **alisonma0610@gmail.com**
+- 📫 Contact me at **alisonma0610@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ruxin-ma/](https://www.linkedin.com/in/ruxin-ma/)
+- 📄 Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/ruxin-ma/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
