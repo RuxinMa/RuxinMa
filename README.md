@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at University of Adelaide **Master of Computing and Innovation**, expected to graduate in July 2025
   
-- 🤝 I'm seeking a Full-Time position or Graduate Program as a **Software Developer** or **Front-End Developer**.
+- 🤝 I'm seeking **Graduate Program** as a **Software Developer** or **Front-End Developer**.
 
 - 👩‍💻 View my **portfolio** of projects at [ruxinma.netlify.app/](https://ruxinma.netlify.app/)
 
