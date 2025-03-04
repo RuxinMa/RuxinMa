@@ -5,13 +5,13 @@
   
 - 🤝 I'm seeking a Full-Time position or Graduate Program as a **Software Developer** or **Front-End Developer**.
 
-- 👨‍💻 View my portfolio of projects at [ruxinma.netlify.app/](https://ruxinma.netlify.app/)
+- 👩‍💻 View my **portfolio** of projects at [ruxinma.netlify.app/](https://ruxinma.netlify.app/)
 
 - 💬 Feel free to reach out about software development, web technologies, or collaboration opportunities
 
 - 📫 Contact me at **alisonma0610@gmail.com**
 
-- 📄 Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/ruxin-ma/)
+- 📄 Learn more about my professional experience on **[LinkedIn](https://www.linkedin.com/in/ruxin-ma/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
