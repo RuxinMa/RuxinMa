@@ -9,11 +9,10 @@
 
 ### 🎓 About Me
 
-- 🔭 I'm currently studying at **University of Adelaide** - **Master of Computing and Innovation**, expected to graduate in **July 2025**
+- 🔭 I'm currently studying at **University of Adelaide** - **Master of Computing and Innovation**, graduate in **July 2025**
 - 🤝 I'm seeking **Graduate Program** and **Junior Developer** positions.
 - 👩‍💻 View my **portfolio** of projects at [ruxinma.netlify.app](https://ruxinma.netlify.app/)
 - 💬 Feel free to reach out about software development, web technologies, or collaboration opportunities
-- 📫 Contact me at **alisonma0610@gmail.com**
 - 📄 Learn more about my professional experience on **[LinkedIn](https://www.linkedin.com/in/ruxin-ma/)**
 
 ---
