@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruxin Ma</h1>
 <h3 align="center">A passionate Software Engineer ☕️</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDC700&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDC700&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Former+Business+Analyst;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
