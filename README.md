@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ruxin Ma</h1>
 <h3 align="center">A passionate Software Engineer ☕️</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDC700&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Former+Business+Analyst;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDC700&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Former+Product+Manager;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎓 About Me
 - 🎓 **Graduated** with **Master of Computing and Innovation** from **University of Adelaide** (July 2025)
-- 💼 Previously worked as a **Business Analyst**, now transitioning to **Software Engineering**
+- 💼 Previously worked as a **Product Manager**, now transitioning to **Software Engineering**
 - 🚀 Building full-stack applications with **MERN stack** and modern web technologies
 - 🤝 Actively seeking **Software Engineer** and **Full-Stack Developer** positions
 - 👩‍💻 View my **portfolio** of projects at **[ruxinma](https://ruxinma.netlify.app/)**
